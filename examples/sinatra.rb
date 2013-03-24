@@ -20,8 +20,8 @@ require 'podio'
 
 # CHANGE this this to make this example work
 Podio.setup(
-  :api_key    => 'YOUR_API_KEY',
-  :api_secret => 'YOUR_API_SECRET'
+  :api_key    => 'sinatrarb',
+  :api_secret => 'bGD1HYvssDoOoCl1EYNf0X724ze2DSBnMhTiMR7OFhuVNcmYXXjwer0hh6Rcusbk'
 )
 
 get '/' do
